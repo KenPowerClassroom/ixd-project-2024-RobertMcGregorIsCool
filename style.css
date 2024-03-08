@@ -3,9 +3,14 @@ h1{
 }
 
 body{
-    /* display: flex; */
+    display: flex;
 }
 
 #nav a{
-    /* background-color: ;*/
+    background-color: yellow;
+}
+
+#nav{
+    min-width: 200px;
+    background-color: bisque;
 }
